@@ -85,12 +85,6 @@ Each requirement was tracked as a Trello card with its priority, type, sustainab
 
 ---
 
-## What I'd improve
-
-- **Validate with real stakeholders.** All elicitation was simulated, and three user groups were covered by the survey only.
-- **Make non-functional requirements measurable.** For example, set NFR-ACC-01 to a WCAG 2.2 AA target and give NFR-SEC-01 a defined retention period, so they can be tested objectively.
-- **Close the story gap.** FR-EMP-03 was added during negotiation and still needs its own user story.
-- **Keep IDs consistent across tools.** The report's requirement IDs were cleaned up after submission, but the Trello screenshots still show the earlier ones (e.g. NFR-NOT-01, now FR-NOT-01).
 
 ## Repository structure
 
