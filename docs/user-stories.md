@@ -67,7 +67,7 @@ Report section 5.2. There are 10 user stories, each with Given/When/Then accepta
 - **Given** an alternative arrangement is available and agreed, **when** the employer confirms it, **then** the system records and communicates the agreed method to the job seeker.
 
 ### US-08 · Optional disclosure and data protection
-**Requirements:** FR-PRIV-01, NFR-SEC-01 · **Sustainability:** Social (privacy, accessibility), Environmental (less stored data)
+**Requirements:** FR-PRIV-01, NFR-SEC-01 · **Sustainability:** Social (privacy, accessibility), Environmental (less data stored)
 
 > As a **job seeker**, I want registration to omit mandatory disability disclosure and my sensitive data to be protected, so that I don't have to worry about misuse of my disability information or data breaches.
 
